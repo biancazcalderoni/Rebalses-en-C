@@ -1,0 +1,252 @@
+# depslib dependency file v1.0
+1652541820 source:c:\users\santi\mi unidad\eda\2022\pmi 3\p3-grupo1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<strings.h>
+	<math.h>
+	"RAL.h"
+	"RAC.h"
+	"RS.h"
+
+1652542079 c:\users\santi\mi unidad\eda\2022\pmi 3\p3-grupo1\ral.h
+	"Articulo.h"
+
+1652540711 c:\users\santi\mi unidad\eda\2022\pmi 3\p3-grupo1\articulo.h
+
+1652542091 c:\users\santi\mi unidad\eda\2022\pmi 3\p3-grupo1\rac.h
+	"Articulo.h"
+
+1652542089 c:\users\santi\mi unidad\eda\2022\pmi 3\p3-grupo1\rs.h
+	"Articulo.h"
+
+1654152425 source:c:\users\santi\google drive (poloswebdesign@gmail.com)\eda\2022\pmi 3\p3-grupo1 v2\p3-grupo1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<strings.h>
+	<math.h>
+	"RAL.h"
+	"RAC.h"
+	"RS.h"
+
+1654152044 c:\users\santi\google drive (poloswebdesign@gmail.com)\eda\2022\pmi 3\p3-grupo1 v2\p3-grupo1\ral.h
+	"Articulo.h"
+
+1654120610 c:\users\santi\google drive (poloswebdesign@gmail.com)\eda\2022\pmi 3\p3-grupo1 v2\p3-grupo1\articulo.h
+
+1654152543 c:\users\santi\google drive (poloswebdesign@gmail.com)\eda\2022\pmi 3\p3-grupo1 v2\p3-grupo1\rac.h
+	"Articulo.h"
+
+1654148293 c:\users\santi\google drive (poloswebdesign@gmail.com)\eda\2022\pmi 3\p3-grupo1 v2\p3-grupo1\rs.h
+	"Articulo.h"
+
+1654112866 c:\users\santi\google drive (poloswebdesign@gmail.com)\eda\2022\pmi 3\p3-grupo1 v2\p3-grupo1\vinculadas.h
+	"Articulo.h"
+
+1655218987 source:h:\mi unidad\eda\2022\pmi 3\p3-grupo1 v2\p3-grupo1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<strings.h>
+	<math.h>
+	"RAL.h"
+	"RAC.h"
+	"RS.h"
+
+1655047781 h:\mi unidad\eda\2022\pmi 3\p3-grupo1 v2\p3-grupo1\ral.h
+	"Articulo.h"
+
+1654120610 h:\mi unidad\eda\2022\pmi 3\p3-grupo1 v2\p3-grupo1\articulo.h
+
+1655048450 h:\mi unidad\eda\2022\pmi 3\p3-grupo1 v2\p3-grupo1\rac.h
+	"Articulo.h"
+
+1655218857 h:\mi unidad\eda\2022\pmi 3\p3-grupo1 v2\p3-grupo1\rs.h
+	"Articulo.h"
+
+1655128582 source:c:\users\santi\mi unidad\eda\2022\pmi 3\p3-grupo1 v2\p3-grupo1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<strings.h>
+	<math.h>
+	"RAL.h"
+	"RAC.h"
+	"RS.h"
+
+1655047781 c:\users\santi\mi unidad\eda\2022\pmi 3\p3-grupo1 v2\p3-grupo1\ral.h
+	"Articulo.h"
+
+1654120610 c:\users\santi\mi unidad\eda\2022\pmi 3\p3-grupo1 v2\p3-grupo1\articulo.h
+
+1655048450 c:\users\santi\mi unidad\eda\2022\pmi 3\p3-grupo1 v2\p3-grupo1\rac.h
+	"Articulo.h"
+
+1655129459 c:\users\santi\mi unidad\eda\2022\pmi 3\p3-grupo1 v2\p3-grupo1\rs.h
+	"Articulo.h"
+
+1655366646 source:c:\users\biane\onedrive\escritorio\eda\p3-grupo1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<strings.h>
+	<math.h>
+	"RAL.h"
+	"RAC.h"
+	"RS.h"
+
+1655047781 c:\users\biane\onedrive\escritorio\eda\p3-grupo1\ral.h
+	"Articulo.h"
+
+1655361631 c:\users\biane\onedrive\escritorio\eda\p3-grupo1\articulo.h
+
+1655333347 c:\users\biane\onedrive\escritorio\eda\p3-grupo1\rac.h
+	"Articulo.h"
+
+1655359073 c:\users\biane\onedrive\escritorio\eda\p3-grupo1\rs.h
+	"Articulo.h"
+
+1655320118 source:c:\users\santi\mi unidad\eda\2022\pmi 3\15-6 trabajando ahora\p3-grupo1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<strings.h>
+	<math.h>
+	"RAL.h"
+	"RAC.h"
+
+1655047781 c:\users\santi\mi unidad\eda\2022\pmi 3\15-6 trabajando ahora\p3-grupo1\ral.h
+	"Articulo.h"
+
+1654120610 c:\users\santi\mi unidad\eda\2022\pmi 3\15-6 trabajando ahora\p3-grupo1\articulo.h
+
+1655319728 c:\users\santi\mi unidad\eda\2022\pmi 3\15-6 trabajando ahora\p3-grupo1\rac.h
+	"Articulo.h"
+
+1655332928 source:h:\mi unidad\eda\2022\pmi 3\15-6 trabajando ahora\p3-grupo1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<strings.h>
+	<math.h>
+	"RAL.h"
+	"RAC.h"
+	"RS.h"
+
+1655047781 h:\mi unidad\eda\2022\pmi 3\15-6 trabajando ahora\p3-grupo1\ral.h
+	"Articulo.h"
+
+1654120610 h:\mi unidad\eda\2022\pmi 3\15-6 trabajando ahora\p3-grupo1\articulo.h
+
+1655319728 h:\mi unidad\eda\2022\pmi 3\15-6 trabajando ahora\p3-grupo1\rac.h
+	"Articulo.h"
+
+1655333023 h:\mi unidad\eda\2022\pmi 3\15-6 trabajando ahora\p3-grupo1\rs.h
+	"Articulo.h"
+
+1655366893 source:c:\users\biane\onedrive\escritorio\eda\rp3-grupo1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<strings.h>
+	<math.h>
+	"RAL.h"
+	"RAC.h"
+	"RS.h"
+
+1655047781 c:\users\biane\onedrive\escritorio\eda\rp3-grupo1\ral.h
+	"Articulo.h"
+
+1655361631 c:\users\biane\onedrive\escritorio\eda\rp3-grupo1\articulo.h
+
+1655333347 c:\users\biane\onedrive\escritorio\eda\rp3-grupo1\rac.h
+	"Articulo.h"
+
+1655359073 c:\users\biane\onedrive\escritorio\eda\rp3-grupo1\rs.h
+	"Articulo.h"
+
+1656710643 source:c:\users\santi\google drive (poloswebdesign@gmail.com)\eda\2022\pmi 3\entregado\rp3-grupo1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<strings.h>
+	<math.h>
+	"RAL.h"
+	"RAC.h"
+	"RS.h"
+
+1655047781 c:\users\santi\google drive (poloswebdesign@gmail.com)\eda\2022\pmi 3\entregado\rp3-grupo1\ral.h
+	"Articulo.h"
+
+1655361631 c:\users\santi\google drive (poloswebdesign@gmail.com)\eda\2022\pmi 3\entregado\rp3-grupo1\articulo.h
+
+1655333347 c:\users\santi\google drive (poloswebdesign@gmail.com)\eda\2022\pmi 3\entregado\rp3-grupo1\rac.h
+	"Articulo.h"
+
+1656705037 c:\users\santi\google drive (poloswebdesign@gmail.com)\eda\2022\pmi 3\entregado\rp3-grupo1\rs.h
+	"Articulo.h"
+
+1656901161 source:c:\users\santi\mi unidad\eda\2022\pmi 3\entregado\rp3-grupo1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<strings.h>
+	<math.h>
+	"RAL.h"
+	"RAC.h"
+	"RS.h"
+
+1655047781 c:\users\santi\mi unidad\eda\2022\pmi 3\entregado\rp3-grupo1\ral.h
+	"Articulo.h"
+
+1656899616 c:\users\santi\mi unidad\eda\2022\pmi 3\entregado\rp3-grupo1\articulo.h
+
+1656899046 c:\users\santi\mi unidad\eda\2022\pmi 3\entregado\rp3-grupo1\rac.h
+	"Articulo.h"
+
+1656904423 c:\users\santi\mi unidad\eda\2022\pmi 3\entregado\rp3-grupo1\rs.h
+	"Articulo.h"
+
+1656901161 source:c:\users\biane\onedrive\escritorio\eda\adicional\rp3-grupo1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<strings.h>
+	<math.h>
+	"RAL.h"
+	"RAC.h"
+	"RS.h"
+
+1655047781 c:\users\biane\onedrive\escritorio\eda\adicional\rp3-grupo1\ral.h
+	"Articulo.h"
+
+1656899616 c:\users\biane\onedrive\escritorio\eda\adicional\rp3-grupo1\articulo.h
+
+1656899046 c:\users\biane\onedrive\escritorio\eda\adicional\rp3-grupo1\rac.h
+	"Articulo.h"
+
+1656904423 c:\users\biane\onedrive\escritorio\eda\adicional\rp3-grupo1\rs.h
+	"Articulo.h"
+
+1656901161 source:c:\users\santi\mi unidad\eda\2022\adicional\rap3-grupo1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<strings.h>
+	<math.h>
+	"RAL.h"
+	"RAC.h"
+	"RS.h"
+
+1655047781 c:\users\santi\mi unidad\eda\2022\adicional\rap3-grupo1\ral.h
+	"Articulo.h"
+
+1656899616 c:\users\santi\mi unidad\eda\2022\adicional\rap3-grupo1\articulo.h
+
+1656899046 c:\users\santi\mi unidad\eda\2022\adicional\rap3-grupo1\rac.h
+	"Articulo.h"
+
+1656904423 c:\users\santi\mi unidad\eda\2022\adicional\rap3-grupo1\rs.h
+	"Articulo.h"
+
